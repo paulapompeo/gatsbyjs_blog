@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `PWA Gatsby`,
+    position: `Full Stack Developer`,
     description: `This blog is about frontend development and other cool stuff.`,
     author: `@paulapompeo`,
   },
