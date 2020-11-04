@@ -1,6 +1,6 @@
 ---
 date: 2020-05-23 05:54:23
-title: Lorem lorem ipsum
+title: primeira pagina
 description: And I'm not lorem sure lorem.
 category: JS
 background: "#744b13"
