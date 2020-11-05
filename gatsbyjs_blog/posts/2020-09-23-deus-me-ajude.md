@@ -9,11 +9,13 @@ background: "#744b13"
 # Lorem ipsum
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
-
+<!-- 
 ```javascript
 a=3
 puts a
-```
+``` -->
+
+![Bino Pompeo](/assets/img/bino.jpg)
 
 ## Fusce a metus eu
 
@@ -23,6 +25,9 @@ Pellentesque `sed` sapien lorem, at lacinia urna. In hac habitasse platea dictum
 Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
 
 ### Cras semper consectetur elementum
+
+
+![Frida Carneiro](/assets/img/frida.jpg)
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
