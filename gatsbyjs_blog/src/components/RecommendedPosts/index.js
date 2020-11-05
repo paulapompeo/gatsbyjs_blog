@@ -1,7 +1,6 @@
 import React from 'react'
 import propTypes from 'prop-types'
 import *as S from './styled'
-import { RecordVoiceOver } from 'styled-icons/material'
 
 const RecommendedPosts = ({ next, previous }) => (
     <S.RecommendedWrapper>
