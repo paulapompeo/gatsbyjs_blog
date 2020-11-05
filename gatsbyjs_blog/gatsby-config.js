@@ -57,6 +57,7 @@ module.exports = {
             },
           },
           `gatsby-remark-lazy-load`,
+          `gatsby-remark-prismjs`, //tem que ser no final do remark
         ],
       },
     },
