@@ -6,11 +6,11 @@ import * as S from './styled'
 
 const Pagination = ({isFirst, isLast, currentPage, numPages, prevPage, nextPage}) => (
     <S.PaginationWrapper>
-        {!isFirst && <AniLink to={prevPage} cover direction="left" duration={0.6} bg="#fff">← página anterior</AniLink>}
+        {!isFirst && <AniLink to={prevPage} cover direction="left" duration={0.6} bg="var(--background)">← página anterior</AniLink>}
         
         <p>{currentPage} de {numPages}</p>
 
-        {!isLast && <AniLink to={nextPage} cover direction="right" duration={0.6} bg="#fff">próxima página →</AniLink>}
+        {!isLast && <AniLink to={nextPage} cover direction="right" duration={0.6} bg="var(--background)">próxima página →</AniLink>}
     </S.PaginationWrapper>
 
 )
