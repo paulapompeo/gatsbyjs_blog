@@ -3,7 +3,7 @@ date: 2020-04-23 05:54:23
 title: primeira pagina
 description: And I'm not lorem sure lorem.
 category: JS
-background: "#744b13"
+background: "#342e"
 ---
 
 # Lorem ipsum

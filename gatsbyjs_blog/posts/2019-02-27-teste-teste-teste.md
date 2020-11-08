@@ -2,7 +2,7 @@
 date: 2019-02-27 05:54:23
 title: Two things are infinite
 description: And I'm not sure about the universe.
-category: Misc
+category: Python
 background: "#744b73"
 ---
 
