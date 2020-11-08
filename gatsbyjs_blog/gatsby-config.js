@@ -8,6 +8,7 @@ module.exports = {
     position: `Full Stack Developer`,
     description: `This blog is about frontend development and other cool stuff.`,
     author: `@paulapompeo`,
+    siteUrl: `https://paulapompeo.com`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
